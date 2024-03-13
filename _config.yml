@@ -165,9 +165,8 @@ content:
         # description: | # this will include new lines to allow paragraphs
         #   Description of qualification
         description: | # this will include new lines to allow paragraphs
-        Cum Laude
-
-        Thesis: Search-Based Chatbot Model for Response Utterance Form Control and Rapid Expansion (Computer science and engineering) & Response to the Chinese Room Argument: On the Assurance of Genuine Directionality (Philosophy)
+          Cum Laude
+          Thesis: Search-Based Chatbot Model for Response Utterance Form Control and Rapid Expansion (Computer science and engineering) & Response to the Chinese Room Argument: On the Assurance of Genuine Directionality (Philosophy)
       - layout: top-right
         title: Hana Highschool
         sub_title: 
