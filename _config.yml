@@ -64,7 +64,7 @@ content:
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Jongho Kim, Dohyeon Lee, Minsoo Kim and Seung-won Hwang. Chaining Event Spans for Temporal Relation Grounding. EACL 2024 (oral)
@@ -81,7 +81,7 @@ content:
           What is the proper reasoning behavior for the temporal reasoning? We mitigate spurious temporal reasoning of LMs by leveraging relative span-based timeline.
         # description: | # this will include new lines to allow paragraphs
         #   Description about the work on/with the project
-      - layout: left
+      - layout: top-left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Jongho Kim, Soona Hong and Seung-won Hwang, On Interfacing Tip-of-the-tongue References. NLINT workshop 2023
@@ -98,7 +98,7 @@ content:
           Retrieval for unidentifiable references. We enhance LM's tip-of-the-tongue retrieval by generating diverse query surrogates.
         # description: | # this will include new lines to allow paragraphs
         #   Description about the work on/with the project
-      - layout: left
+      - layout: top-left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Jaeseong Lee*, Dohyeon Lee*, Jongho Kim and Seung-won Hwang. C2LIR Continual Cross- lingual Transfer for Low-Resource Information Retrieval. ECIR 2023 (short)
@@ -118,7 +118,7 @@ content:
   - title: Work Experience
     layout: list
     content:
-      - layout: right
+      - layout: top-right
         title:  Software Platform Lab in Seoul National University
         sub_title: Research Intern
         caption: December 2020 - May 2021
@@ -127,7 +127,7 @@ content:
         #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Dialogue topic classification / Retrieval-based Chatbot
-      - layout: right
+      - layout: top-right
         title: NCSOFT NLP center
         sub_title: Research Intern
         caption: July 2020 - August 2020
