@@ -54,14 +54,15 @@ darkmode: false
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs.
   Hi, I'm a Ph.D. student at the Language and Data Intelligence Laboratory in SNU, under the supervision of Prof. Seung-won Hwang. 
-  I'm interested in Strong AI: whether it is possible to create AI that is indistinguishable from the human mind. Currently, I'm interested in the ground of language models' <mark>reasoning</mark>, <mark>uncertainty</mark> issue in the real-world and real-human, and information retrieval.
+  I'm interested in Strong AI: whether it is possible to create AI that is indistinguishable from the human mind. Currently, I'm interested in the ground of language models' **reasoning**, **uncertainty** issue in the real-world and real-human, and information retrieval.
 
 content:
   - title: Research Interests
     layout: text
     content: |
       Natural language processing, Reasoning, AI-human alignment, Information retrieval
-  - title: Publications # Title for the section
+  
+- title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-left
@@ -136,6 +137,7 @@ content:
         #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Large language model pre-training
+
   - title: Academic Services
     layout: list
     content:
@@ -166,6 +168,7 @@ content:
         #   Description of qualification
         description: | # this will include new lines to allow paragraphs
           Cum Laude
+
           Thesis: Search-Based Chatbot Model for Response Utterance Form Control and Rapid Expansion (Computer science and engineering) & Response to the Chinese Room Argument: On the Assurance of Genuine Directionality (Philosophy)
       - layout: top-right
         title: Hana Highschool
